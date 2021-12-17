@@ -2,7 +2,7 @@
 - 👀 I’m interested in making socially impactful codes
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on anything related to web development.
-- 📫 How to reach me - https://www.linkedin.com/in/ankita-singh-31a47aa0/
+- 📫 How to reach me - https://www.linkedin.com/in/ankita1-singh/
 
 <!---
 enkitaa/enkitaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
