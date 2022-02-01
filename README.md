@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankita
-- 👀 I’m interested in making socially impactful codes
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in developing socially impactful codes
+- 🌱 I’m currently learning Node.js, React.
 - 💞️ I’m looking to collaborate on anything related to web development.
 - 📫 How to reach me - https://www.linkedin.com/in/ankita1-singh/
 
